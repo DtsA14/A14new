@@ -171,7 +171,7 @@ nav ul li a:hover{
     padding: 20px 0;
 }
 
-.container-one:hover {
+.lesson:hover {
     background-color:#0abde3;
     border-radius:30px;
     transition:rotateY:130deg;
