@@ -171,10 +171,10 @@ nav ul li a:hover{
     padding: 20px 0;
 }
 
-.lesson-icon:hover {
+.lesson:hover {
     background-color:#0abde3;
     border-radius:30px;
-    transition:rotateY:130deg;
+    transform:rotate:130deg;
 }   
 
 .lesson{
