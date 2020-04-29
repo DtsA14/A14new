@@ -174,7 +174,7 @@ nav ul li a:hover{
 .container-two:hover {
     background-color:#0abde3;
     border-radius:30px;
-    transform:rotateY:130deg;
+    transform:rotateY(130deg);
 }   
 
 .lesson{
