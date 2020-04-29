@@ -171,6 +171,12 @@ nav ul li a:hover{
     padding: 20px 0;
 }
 
+.container-two:hovers {
+    background-color:#0abde3;
+    border-radius:30px;
+    transition:rotateY:130deg;
+}   
+
 .lesson{
     width: 19%;
     text-align: center;
